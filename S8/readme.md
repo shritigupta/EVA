@@ -1,5 +1,4 @@
 Achieved 85% accuracy in 18th epoch. Logs:
-
 100%|██████████| 196/196 [03:23<00:00,  1.28it/s]
   0%|          | 0/196 [00:00<?, ?it/s]
 Epoch: 1 Train set: Average loss: 0.0085, Accuracy: 25.206%
@@ -113,7 +112,5 @@ Epoch: 27 Test set: Average loss: 0.0018, Accuracy: 86.360%
 Epoch: 28 Train set: Average loss: 0.0007, Accuracy: 93.914%
 Epoch: 28 Test set: Average loss: 0.0016, Accuracy: 87.990%
 100%|██████████| 196/196 [03:23<00:00,  1.28it/s]
-
 Epoch: 29 Train set: Average loss: 0.0006, Accuracy: 94.192%
 Epoch: 29 Test set: Average loss: 0.0017, Accuracy: 87.740%
-
