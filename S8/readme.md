@@ -1,4 +1,8 @@
-Achieved 85% accuracy in 18th epoch. Logs:
+Achieved 85% accuracy in 18th epoch. 
+
+Logs:
+
+
 100%|██████████| 196/196 [03:23<00:00,  1.28it/s]
   0%|          | 0/196 [00:00<?, ?it/s]
 Epoch: 1 Train set: Average loss: 0.0085, Accuracy: 25.206%
